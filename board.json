@@ -1,0 +1,13 @@
+{
+	"board" : {
+		/* The date, if not specified, will be taken automatically from
+		 * the current system time. You may specify the `-u` option to
+		 * `frugen` in order to leave the date 'Unspecified' */
+		"date" : "2024-02-21 19:55:00",
+		"mfg" : "Inventec Corp.",
+		"pname" : "Base",
+		"serial" : "123456",
+		"pn" : "1395A3578301",
+		"file" : "Base"
+	}
+}
